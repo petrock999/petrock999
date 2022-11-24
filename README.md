@@ -3,6 +3,7 @@
 * [THE ODIN PROJECT](https://www.theodinproject.com/)
 * [FREECODECAMP](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/create-complex-multi-dimensional-arrays) 
 * BRO CODE <br/><br/>
+* *finish portafolios and tests
 ## C ## 
 * CS50 
 * BRO CODE<br/><br/>
