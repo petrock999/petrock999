@@ -1,6 +1,6 @@
 # CURRENTLY LEARNING:
 ## JAVASCRIPT, HTML AND CSS ##
-* <a>THE ODIN PROJECT </a>
+* [THE ODIN PROJECT](https://www.theodinproject.com/)
 * FREECODE CAMP 
 * BRO CODE <br/><br/>
 ## C ## 
