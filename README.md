@@ -28,5 +28,5 @@ https://www.youtube.com/watch?v=ptmbe95w7J4 </br>
 * Etc.
 * _🔴JOBS🔴_
 
-hacking addictio
+hacking addiction
 https://www.youtube.com/watch?v=p3JLaF_4Tz8
