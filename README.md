@@ -1,7 +1,7 @@
 # CURRENTLY LEARNING:
 ## JAVASCRIPT, HTML AND CSS ##
 * [THE ODIN PROJECT](https://www.theodinproject.com/)
-* FREECODECAMP 
+* [FREECODECAMP](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/create-complex-multi-dimensional-arrays) 
 * BRO CODE <br/><br/>
 ## C ## 
 * CS50 
