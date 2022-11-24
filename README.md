@@ -27,3 +27,6 @@ https://www.youtube.com/watch?v=ptmbe95w7J4 </br>
 * Vectors
 * Etc.
 * _🔴JOBS🔴_
+
+hacking addictio
+https://www.youtube.com/watch?v=p3JLaF_4Tz8
