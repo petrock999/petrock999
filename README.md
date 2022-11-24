@@ -1,17 +1,18 @@
-**JAVASCRIPT, HTML AND CSS** <br/>
+# CURRENTLY LEARNING:
+## JAVASCRIPT, HTML AND CSS ##
 * THE ODIN PROJECT 
 * FREECODE CAMP 
 * BRO CODE <br/><br/>
-**C** 
+## C ## 
 * CS50 
 * BRO CODE<br/><br/>
-**PYTHON**
+## PYTHON ## 
 * BROCODE 
 * CS50 
 * NUMPY 
 * MATPLOTLIB 
 * PANDAS<br/><br/>
-**MACHINE LEARNING**
+## MACHINE LEARNING ## 
 * Coursera
 * Machine learning for everyone
 * Matrixes
