@@ -5,10 +5,10 @@
 * BRO CODE <br/><br/>
 _finish portafolios and tests_
 
-https://www.youtube.com/watch?v=4DIrERntO70
-https://www.youtube.com/watch?v=sPME3TTVi3A
-https://www.youtube.com/watch?v=VbB4CA2aZ7w
-https://www.youtube.com/watch?v=ptmbe95w7J4
+https://www.youtube.com/watch?v=4DIrERntO70 </br>
+https://www.youtube.com/watch?v=sPME3TTVi3A </br>
+https://www.youtube.com/watch?v=VbB4CA2aZ7w </br>
+https://www.youtube.com/watch?v=ptmbe95w7J4 </br>
 
 ## C ## 
 * CS50 
