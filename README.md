@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=ptmbe95w7J4 </br>
 * PANDAS<br/><br/>
 ## MACHINE LEARNING ## 
 * Coursera
-* Machine learning for everyone
+* Machine learning for everyone https://www.youtube.com/watch?v=i_LwzRVP7bg&t=7s
 * Matrixes
 * Vectors
 * Etc.
