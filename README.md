@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=ptmbe95w7J4 </br>
 * Matrixes
 * Vectors
 * Etc.
-* <span style="color:blue">some *blue* text</span>.
+* _🔴JOBS🔴_
