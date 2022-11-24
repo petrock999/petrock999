@@ -2,7 +2,7 @@
 ## JAVASCRIPT, HTML AND CSS ##
 * [THE ODIN PROJECT](https://www.theodinproject.com/)
 * [FREECODECAMP](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/create-complex-multi-dimensional-arrays) 
-* BRO CODE <br/><br/>
+* [BRO CODE](https://www.youtube.com/watch?v=8dWL3wF_OMw) <br/><br/>
 _finish portafolios and tests_
 
 ## sign up form for odin ##
