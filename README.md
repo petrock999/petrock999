@@ -26,3 +26,4 @@ https://www.youtube.com/watch?v=ptmbe95w7J4 </br>
 * Matrixes
 * Vectors
 * Etc.
+* job in machine learning links
