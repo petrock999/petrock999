@@ -1,7 +1,7 @@
 # CURRENTLY LEARNING:
 ## JAVASCRIPT, HTML AND CSS ##
 * [THE ODIN PROJECT](https://www.theodinproject.com/)
-* FREECODE CAMP 
+* FREECODECAMP 
 * BRO CODE <br/><br/>
 ## C ## 
 * CS50 
