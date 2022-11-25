@@ -5,6 +5,8 @@
 * [BRO CODE](https://www.youtube.com/watch?v=8dWL3wF_OMw) <br/><br/>
 _finish portafolios and tests_
 
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence
+
 ## sign up form for odin ##
 https://www.youtube.com/watch?v=4DIrERntO70 </br>
 https://www.youtube.com/watch?v=sPME3TTVi3A </br>
