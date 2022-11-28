@@ -3,7 +3,7 @@
 * [THE ODIN PROJECT](https://www.theodinproject.com/)
 * [FREECODECAMP](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/create-complex-multi-dimensional-arrays) 
 * [BRO CODE](https://www.youtube.com/watch?v=8dWL3wF_OMw) <br/><br/>
-_finish portafolios and tests_
+🔴finish portafolios and tests🔴
 
 [Current CS50 site](https://cs50.harvard.edu/x/2022/weeks/2/)
 [CS50 Youtube Link](https://youtu.be/v_luodP_mfE?t=1024)
