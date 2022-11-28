@@ -34,8 +34,6 @@ https://www.youtube.com/watch?v=ptmbe95w7J4 </br>
 * Etc.
 * _🔴JOBS🔴_
 
-hacking addiction
-https://www.youtube.com/watch?v=p3JLaF_4Tz8
+[hacking addiction](https://www.youtube.com/watch?v=p3JLaF_4Tz8)
 
-to watch
-https://www.youtube.com/watch?v=eAzClkn3zYw
+[to watch](https://www.youtube.com/watch?v=eAzClkn3zYw)
