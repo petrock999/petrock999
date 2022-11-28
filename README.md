@@ -10,6 +10,8 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/bas
 https://cs50.harvard.edu/x/2022/weeks/2/
 https://youtu.be/v_luodP_mfE?t=1024
 
+git
+https://www.youtube.com/watch?v=RGOj5yH7evk
 ## sign up form for odin ##
 https://www.youtube.com/watch?v=4DIrERntO70 </br>
 https://www.youtube.com/watch?v=sPME3TTVi3A </br>
