@@ -42,3 +42,5 @@ https://www.youtube.com/watch?v=ptmbe95w7J4 </br>
 
 ## to watch hubby ##
 [tiny desk](https://www.youtube.com/watch?v=eAzClkn3zYw)
+
+https://www.reddit.com/r/Python/comments/z62wuw/free_udemy_course_without_certificate_python/
