@@ -38,11 +38,10 @@ https://www.youtube.com/watch?v=ptmbe95w7J4 </br>
 
 ## Addiction ##
 [hacking addiction](https://youtu.be/p3JLaF_4Tz8?t=999)
-
+[GUIDED MEDITATION](https://www.youtube.com/watch?v=CVW_IE1nsKE)
 
 ## to watch hubby ##
 [tiny desk](https://www.youtube.com/watch?v=eAzClkn3zYw)
 
-https://www.reddit.com/r/Python/comments/z62wuw/free_udemy_course_without_certificate_python/
+[UDEMY PYTHON](https://www.reddit.com/r/Python/comments/z62wuw/free_udemy_course_without_certificate_python/)
 
-https://www.youtube.com/watch?v=CVW_IE1nsKE
