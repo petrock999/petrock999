@@ -7,7 +7,7 @@
 * [pandas](https://www.youtube.com/watch?v=vmEHCJofslg)
 
 ## CS50 ##
-[Current CS50 site](https://cs50.harvard.edu/x/2022/weeks/2/) //
+[Current CS50 site](https://cs50.harvard.edu/x/2022/weeks/4/) //
 [CS50 Youtube Link](https://youtu.be/v_luodP_mfE?t=1024)
 
 ## git tutorial ##
