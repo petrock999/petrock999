@@ -3,9 +3,9 @@
 * [THE ODIN PROJECT](https://www.theodinproject.com/)
 * [FREECODECAMP](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/create-complex-multi-dimensional-arrays) 
 * [BRO CODE 2022 JS](https://www.youtube.com/watch?v=8dWL3wF_OMw)
-* 🔴finish portafolios and tests so you can work🔴
 * [pandas](https://www.youtube.com/watch?v=vmEHCJofslg)
 * [REAL WORLD](https://www.youtube.com/watch?v=cc0HOiKN_ac)
+* 🔴finish portafolios and tests so you can work🔴
 
 ## CS50 ##
 [Current CS50 site](https://cs50.harvard.edu/x/2022/weeks/4/) //
