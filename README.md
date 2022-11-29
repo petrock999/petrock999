@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=ptmbe95w7J4 </br>
 * _🔴JOBS🔴_
 
 ## Addiction ##
-[hacking addiction](https://www.youtube.com/watch?v=p3JLaF_4Tz8)
+[hacking addiction](https://youtu.be/p3JLaF_4Tz8?t=999)
 
 
 ## to watch hubby ##
