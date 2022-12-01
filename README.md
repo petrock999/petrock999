@@ -12,25 +12,25 @@
 [Current CS50 site](https://cs50.harvard.edu/x/2022/weeks/4/) //
 [CS50 Youtube Link](https://youtu.be/v_luodP_mfE?t=1024)
 
-## git tutorial ##
+## git tutorial
 https://www.youtube.com/watch?v=RGOj5yH7evk
 
-## sign up form for odin ##
+## sign up form for odin 
 https://www.youtube.com/watch?v=4DIrERntO70 </br>
 https://www.youtube.com/watch?v=sPME3TTVi3A </br>
 https://www.youtube.com/watch?v=VbB4CA2aZ7w </br>
 https://www.youtube.com/watch?v=ptmbe95w7J4 </br>
 
-## C ## 
+## C #
 * CS50 
 * BRO CODE<br/><br/>
-## PYTHON ## 
+## PYTHON 
 * BROCODE 
 * CS50 
 * NUMPY 
 * MATPLOTLIB 
 * PANDAS<br/><br/>
-## MACHINE LEARNING ## 
+## MACHINE LEARNING 
 * Coursera
 * Machine learning for everyone https://www.youtube.com/watch?v=i_LwzRVP7bg&t=7s
 * Matrixes
@@ -38,11 +38,11 @@ https://www.youtube.com/watch?v=ptmbe95w7J4 </br>
 * Etc.
 * _🔴JOBS🔴_
 
-## Addiction ##
+## Addiction 
 [hacking addiction](https://youtu.be/p3JLaF_4Tz8?t=999)
 [GUIDED MEDITATION](https://www.youtube.com/watch?v=CVW_IE1nsKE)
 
-## to watch hubby ##
+## to watch hubby 
 [tiny desk](https://www.youtube.com/watch?v=eAzClkn3zYw)
 
 [UDEMY PYTHON](https://www.reddit.com/r/Python/comments/z62wuw/free_udemy_course_without_certificate_python/)
