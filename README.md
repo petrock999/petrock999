@@ -44,6 +44,12 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 * Etc.
 * _🔴JOBS🔴_
 
+# GODOT
+* FPS
+* RPG
+* BREAKOUT
+* [HOW TO BE A REALLY GOOD GAMEDEV](https://youtu.be/5-iST0a69cI)
+
 # Addiction 
 [hacking addiction](https://youtu.be/p3JLaF_4Tz8?t=999)
 [GUIDED MEDITATION](https://www.youtube.com/watch?v=CVW_IE1nsKE)
