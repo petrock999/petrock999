@@ -59,3 +59,5 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 
 [UDEMY PYTHON](https://www.reddit.com/r/Python/comments/z62wuw/free_udemy_course_without_certificate_python/)
 
+[data science](https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
+
