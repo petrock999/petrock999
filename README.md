@@ -3,7 +3,7 @@
 * [BRO CODE 2022 JS](https://www.youtube.com/watch?v=8dWL3wF_OMw)
 
 * [THE ODIN PROJECT](https://www.theodinproject.com/)
-* [FREECODECAMP](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/create-complex-multi-dimensional-arrays) 
+* [FREECODECAMP](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice) 
 
 * [RPG MAKER](https://www.youtube.com/watch?v=SYx885hX0OY)
 
