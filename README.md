@@ -68,5 +68,4 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 [data science in 6 hours](https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
 
 [PYTHON DOOM](https://www.youtube.com/watch?v=ECqUrT7IdqQ)
-
-https://www.youtube.com/watch?v=pqNCD_5r0IU
+[SCIKIT](https://www.youtube.com/watch?v=pqNCD_5r0IU)
