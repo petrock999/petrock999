@@ -1,9 +1,11 @@
 # CURRENTLY LEARNING:
-## JAVASCRIPT, HTML AND CSS 
+## JAVASCRIPT, HTML AND CSS (FRONTEND & BACKEND)
 * [BRO CODE 2022 JS](https://www.youtube.com/watch?v=8dWL3wF_OMw)
 
-* [THE ODIN PROJECT](https://www.theodinproject.com/) // CURRENT FORM
-* [FREECODECAMP](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice) 
+* [THE ODIN PROJECT](https://www.theodinproject.com/) // CURRENT: FORM
+* [FREECODECAMP](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-prototype-chain) // PROTOTYPE CHAIN
+
+### RANDOM FUN PROJECTS
 
 * [RPG MAKER](https://www.youtube.com/watch?v=SYx885hX0OY)
 
