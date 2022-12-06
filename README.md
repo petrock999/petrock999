@@ -8,18 +8,20 @@
 ### RANDOM FUN PROJECTS
 
 * [RPG MAKER](https://www.youtube.com/watch?v=SYx885hX0OY)
+* [SELF DRIVING CAR] (https://www.youtube.com/watch?v=Rs_rAxEsAvI)
+* [DOMSTIKA] (https://www.youtube.com/watch?v=Rs_rAxEsAvI)
 
-## Sign up form for Odin 
+## Sign up form for Odin help
 https://www.youtube.com/watch?v=4DIrERntO70 </br>
 https://www.youtube.com/watch?v=sPME3TTVi3A </br>
 https://www.youtube.com/watch?v=VbB4CA2aZ7w </br>
 https://www.youtube.com/watch?v=ptmbe95w7J4 </br>
 
 # PANDAS
-* [Pandas main tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)
+* [Pandas Keith tutorial](https://www.youtube.com/watch?v=vmEHCJofslg)
 
 * [REAL WORLD application](https://www.youtube.com/watch?v=cc0HOiKN_ac)
-* 🔴finish portafolios and tests so you can work🔴
+* 🔴finish portafolios and tests🔴
 
 # CS50 
 [Current CS50 site](https://cs50.harvard.edu/x/2022/weeks/4/) //
@@ -31,13 +33,15 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 
 # C
 * CS50 
-* BRO CODE<br/><br/>
+* BRO CODE
+
 # PYTHON 
 * BROCODE 
 * CS50 
 * NUMPY 
 * MATPLOTLIB 
-* PANDAS<br/><br/>
+* PANDAS
+
 # MACHINE LEARNING 
 * Coursera
 * Machine learning for everyone https://www.youtube.com/watch?v=i_LwzRVP7bg&t=7s
@@ -63,10 +67,8 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 
 [data science](https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
 
-
 https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1
 
 https://www.youtube.com/watch?v=ECqUrT7IdqQ
-
 
 https://www.youtube.com/watch?v=pqNCD_5r0IU
