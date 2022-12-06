@@ -8,8 +8,8 @@
 ### RANDOM FUN PROJECTS
 
 * [RPG MAKER](https://www.youtube.com/watch?v=SYx885hX0OY)
-* [SELF DRIVING CAR] (https://www.youtube.com/watch?v=Rs_rAxEsAvI)
-* [DOMSTIKA] (https://www.youtube.com/watch?v=Rs_rAxEsAvI)
+* [SELF DRIVING CAR](https://www.youtube.com/watch?v=Rs_rAxEsAvI)
+* [DOMSTIKA BROKE](https://www.youtube.com/watch?v=Rs_rAxEsAvI)
 
 ## Sign up form for Odin help
 https://www.youtube.com/watch?v=4DIrERntO70 </br>
