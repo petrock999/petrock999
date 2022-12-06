@@ -4,6 +4,7 @@
 
 * [THE ODIN PROJECT](https://www.theodinproject.com/) // CURRENT: FORM
 * [FREECODECAMP](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/understand-the-prototype-chain) // PROTOTYPE CHAIN
+* [FREECODECAMP CERTS](https://www.freecodecamp.org/settings#certification-settings)
 
 ### RANDOM FUN PROJECTS
 
