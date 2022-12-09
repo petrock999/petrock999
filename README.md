@@ -70,3 +70,6 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 
 [PYTHON DOOM](https://www.youtube.com/watch?v=ECqUrT7IdqQ)
 [SCIKIT](https://www.youtube.com/watch?v=pqNCD_5r0IU)
+
+
+https://www.youtube.com/watch?v=V_xro1bcAuA pytorch yes
