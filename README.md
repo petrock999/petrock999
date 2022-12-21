@@ -74,3 +74,7 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 
 
 https://www.youtube.com/watch?v=V_xro1bcAuA pytorch yes
+
+
+Continue Odin projects
+figure out how login works
